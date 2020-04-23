@@ -1,1 +1,3 @@
 This project contains a form with 2 sets of 5 radio buttons. On submit the values are stored in a Mongodb using Node.js
+
+Server.js is the main file with the front end form and the back end logic. App.js is used to print contents of database in console.
